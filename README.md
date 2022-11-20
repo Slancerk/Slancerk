@@ -25,3 +25,6 @@
 <br />
 
 ![](https://media-exp1.licdn.com/dms/image/C4D16AQHUVZbl4ziKQg/profile-displaybackgroundimage-shrink_350_1400/0/1647107415989?e=1652313600&v=beta&t=6Xq0C8UXMUfQ8XcoB_mEhyisnfTTXeuOfZS-l-ouq-4)
+
+  
+  [![@slancerk's Holopin board](https://holopin.me/slancerk)](https://holopin.io/@slancerk)
