@@ -2,7 +2,7 @@
 
 
 <p align='center'>
-<a href="https://git.io/typing-svg" align='center'><img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&pause=1000&color=22F738&center=true&vCenter=true&width=435&lines=Welcome+to+my+Profile!;Full+stack+web+developer..;Learned+devops.....;Blockchain+Enthusiast." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg" align='center'><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0FF700&center=true&vCenter=true&width=435&lines=DEVOPS+ENGINEER;FREELANCER" alt="Typing SVG" /></a>
 </p>
 
 <p align='center'>I am a Third year CS student, Love development, so i learned tools necessary for that,then I shifted towards devops as 
