@@ -5,7 +5,7 @@
 <a href="https://git.io/typing-svg" align='center'><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0FF700&center=true&vCenter=true&width=435&lines=DEVOPS+ENGINEER;FREELANCER" alt="Typing SVG" /></a>
 </p>
 
-<p align='center'>I am a Third year CS student, Love development, so i learned tools necessary for that,then I shifted towards devops as 
+<p align='center'>I am a Final year CS student, Love development, so i learned tools necessary for that,then I shifted towards devops as 
 I thought development is not the end, I learned the basics of the required tools ready to deploy now. I can see my future 
 towards blockchain, hopefully within some months I will be starting with next gen techs.... 
 want to thanks to the Youtubers , seniors for the help .... 
